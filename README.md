@@ -28,11 +28,11 @@ conda install -c conda-forge pyautogui
 &nbsp;&nbsp;&nbsp;&nbsp;2) The common method, run the program from any ide. But, remember to make the view of the icon to Small/List/Details from &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the above mentioned method.
 
 ## Possible problems and their solutions
--> An Infinite Loop:
-    Reasons:
-        -Some files are not saved before the usage of program.
-        -Icon view is not set to small/list/details.
-    Solution:
+-> An Infinite Loop:  
+    Reasons:  
+        -Some files are not saved before the usage of program.  
+        -Icon view is not set to small/list/details.  
+    Solution:  
         -Just smash the mouse pointer any of the corner of the screen.
 
 ## Warnings
