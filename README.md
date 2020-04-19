@@ -29,11 +29,11 @@ conda install -c conda-forge pyautogui
 
 ## Possible problems and their solutions
 -> An Infinite Loop:  
-&nbsp;&nbsp;&nbsp;&nbsp;Reasons:  
-&nbsp;&nbsp;&nbsp;&nbsp;-Some files are not saved before the usage of program.  
-&nbsp;&nbsp;&nbsp;&nbsp;-Icon view is not set to small/list/details.  
-&nbsp;&nbsp;&nbsp;&nbsp;Solution:  
-&nbsp;&nbsp;&nbsp;&nbsp;-Just smash the mouse pointer any of the corner of the screen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reasons:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Some files are not saved before the usage of program.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Icon view is not set to small/list/details.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solution:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Just smash the mouse pointer any of the corner of the screen.
 
 ## Warnings
     -Currently works on only dark mode.
