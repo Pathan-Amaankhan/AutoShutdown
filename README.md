@@ -6,7 +6,7 @@ Auto shutdown the windows 10 device working on dark mode by just one click. The 
 Using pip:  
 ```bash
 pip install opencv-python
-```  
+```    
 Using conda:  
 ```bash  
 conda install -c conda-forge opencv
