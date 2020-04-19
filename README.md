@@ -2,16 +2,12 @@
 Auto shutdown the windows 10 device working on dark mode by just one click. The code closes all the program and then shuts the device.
 
 ## Installation of requred modules
-<pre>
-1) cv2 
-    Using pip:
-</pre>
+1) cv2  
+&nbsp;&nbsp;&nbsp;&nbsp;Using pip:
 ```bash
 pip install opencv-python
 ```
-<pre>
-    Using conda:
-</pre>
+&nbsp;&nbsp;&nbsp;&nbsp;Using conda:
 ```bash  
 conda install -c conda-forge opencv
 ```
