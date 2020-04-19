@@ -36,6 +36,6 @@ conda install -c conda-forge pyautogui
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Just smash the mouse pointer any of the corner of the screen.
 
 ## Warnings
--Currently works on only dark mode.
--Does not saves the work, it has to be done manually before running the program.
+-Currently works on only dark mode.  
+-Does not saves the work, it has to be done manually before running the program.  
 -View of the icons should be set to small/list/details.
