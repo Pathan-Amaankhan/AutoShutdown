@@ -12,10 +12,12 @@ pip install opencv-python
 conda install -c conda-forge opencv
 ```
 2) pyautogui
-```bash
 Using pip:
+```bash
 pip install pyautogui
-Using conda:
+```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using conda:
+```bash
 conda install -c conda-forge pyautogui
 ```
 
