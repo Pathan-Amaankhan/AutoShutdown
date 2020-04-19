@@ -25,7 +25,7 @@ conda install -c conda-forge pyautogui
 -> First save all your files which are currently unsaved.  
 -> There are two ways to use this:    
 &nbsp;&nbsp;&nbsp;&nbsp;1) If you don't want to run the program from command line again and again, create a .exe file with [pyinstaller](https://pyinstaller.readthedocs.io/en/stable/usage.html). Make the icon's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;view to Small/List/Details from view>your-choice.  
-&nbsp;&nbsp;&nbsp;&nbsp;2) The common method, run the program from any ide. But, remember to make the view of the icon to Small/List/Details from the above mentioned method.
+&nbsp;&nbsp;&nbsp;&nbsp;2) The common method, run the program from any ide. But, remember to make the view of the icon to Small/List/Details from &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the above mentioned method.
 
 ## Possible problems and their solutions
 -> An Infinite Loop:
