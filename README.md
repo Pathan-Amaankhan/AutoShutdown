@@ -7,7 +7,7 @@ Using pip:
 ```bash
 pip install opencv-python
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using conda:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using conda:
 ```bash  
 conda install -c conda-forge opencv
 ```
