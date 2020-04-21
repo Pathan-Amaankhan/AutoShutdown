@@ -24,7 +24,7 @@ conda install -c conda-forge pyautogui
 ## Usage
 -> First save all your files which are currently unsaved.  
 -> There are two ways to use this:    
-&nbsp;&nbsp;&nbsp;&nbsp;1) If you don't want to run the program from command line again and again, create a .exe file with [pyinstaller](https://pyinstaller.readthedocs.io/en/stable/usage.html). Make the icon's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;view to Small/List/Details from view>your-choice.  
+&nbsp;&nbsp;&nbsp;&nbsp;1) If you don't want to run the program from command line again and again, create a .exe file with [pyinstaller](https://pyinstaller.readthedocs.io/en/stable/usage.html). Make the icon's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;view to Small/List/Details from view>your-choice. Pre-build executable can be downloaded from here [Auto-shutdown Executable.](https://github.com/Pathan-Amaankhan/AutoShutdown-Executable)  
 &nbsp;&nbsp;&nbsp;&nbsp;2) The common method, run the program from any ide. But, remember to make the view of the icon to Small/List/Details from &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the above mentioned method.
 
 ## Possible problems and their solutions
@@ -37,5 +37,5 @@ conda install -c conda-forge pyautogui
 
 ## Warnings
 -Currently works on only dark mode.  
--Does not saves the work, it has to be done manually before running the program.  
+-Does not save the work, it has to be done manually before running the program.  
 -View of the icons should be set to small/list/details.
